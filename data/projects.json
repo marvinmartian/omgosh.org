@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "name":"AESO Energy Tracking",
+      "url":"https://aeso.omgosh.org/",
+      "desc":"Energy tracking in the province of Alberta."
+    },
+    {
+      "name":"Emergency and Urgent Care Wait Times",
+      "url":"https://waittimes.omgosh.org",
+      "desc":"Tracking the wait times at emergency and urgent care wait times in Alberta."
+    },
+    {
+      "name":"ADSB & Prometheus Metrics",
+      "url":"https://flightdash.omgosh.org",
+      "desc":"Visualization of the data collected from my ADSB flight tracker."
+    }
+  ]
+}
